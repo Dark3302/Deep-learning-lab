@@ -50,3 +50,8 @@ Experiment-2
 
     Training and validation loss/accuracy trends helped assess model effectiveness.
     Transfer learning provided better generalization, proving its efficiency over training CNNs from scratch.
+#Experiment-4
+    Poem Generation
+          text_generation.py      # Main Python code for training and generating text
+          poems-100.csv           # Dataset containing poems for training
+          generated_poems.txt     # Sample generated poems
